@@ -17,7 +17,7 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](http://raulcrespo.tech)
+[![Site preview](/public/Screenshot_20.png)](http://raulcrespo.tech)
 
 ## Table of Contents
 
